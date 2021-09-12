@@ -2,9 +2,9 @@
 #header1 {
     text-align: center;
     display: block;
-    background-color: Orange;
+    background-color: #FFA500;
 }
 body {
-    background-color: Yellow;
+    background-color: #FFFF00;
     text-align: center;
 }
