@@ -1,7 +1,9 @@
 
 #header1 {
     text-align: center;
+    display: block;
 }
 body {
     background-color: lightgray;
+    text-align: center;
 }
