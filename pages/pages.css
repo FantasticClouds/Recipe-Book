@@ -1,12 +1,35 @@
 body {
-    text-align: center;
-    background-color: darkgray;
+  padding: 20px;
+  font-size: 20px;
 }
-ol {
-    padding: 50px 0 50px;
-    line-height: 150px;
 
-    height: 100px;
+p {
+  margin: 0 auto;
+  max-width: 250px;
+  border: solid 2px #ccc;
+  padding: 12px;
+}
 
-    
+.lists1 {
+  margin: 0 auto;
+  max-width: 500px;
+  border: solid 2px #ccc;
+  padding: 8px
+}
+
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.melonspec {
+  margin: 0 auto;
+  max-width: 600px;
+  border: 1px solid transparent;
+}
+
+.centertext453 {
+  text-align: center;
 }
